@@ -8,4 +8,5 @@
 ## Golosio
 
 MultiSig: No
+
 Address: 1MjDbBMtAP9kSduEB5bwWrHjQv9mLYQKqd
